@@ -104,7 +104,7 @@
     "gatsby-link": "^2.2.29",
     "gatsby-plugin-webpack-bundle-analyser-v2": "^1.1.8",
     "gatsby-react-router-scroll": "^2.1.21",
-    "husky": "^4.0.7",
+    "husky": "^4.3.5",
     "identity-obj-proxy": "^3.0.0",
     "jest": "^25.1.0",
     "jest-emotion": "^10.0.26",
